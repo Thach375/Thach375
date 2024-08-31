@@ -21,9 +21,6 @@
   <a href="https://github.com/Thach375" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a>
-  <a href="https://www.kaggle.com/thachpn205" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
   <a href="phamthach03072005@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
   </a>
