@@ -13,16 +13,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ngoc-thach-pham-349609265/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/?size=50&id=8808&format=png&color=000000"/>
   </a>
   <a href="https://www.facebook.com/ngocthach.pham.31149359/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+    <img src="https://img.icons8.com/?size=50&id=118467&format=png&color=000000" />
   </a> 
   <a href="https://github.com/Thach375" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+    <img src="https://img.icons8.com/?size=50&id=12599&format=png&color=000000"/>
+      </a> 
+  <a href="https://www.instagram.com/thach._.thach/">
+    <img src="https://img.icons8.com/?size=50&id=32292&format=png&color=000000"/>
   </a>
   <a href="phamthach03072005@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+    <img src="https://img.icons8.com/?size=50&id=Y2GfpkgYNp42&format=png&color=000000"/>
   </a>
 </p>
 
