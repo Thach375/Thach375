@@ -2,7 +2,7 @@
 <img align="right" width="64" src="https://github.com/Thach375.png" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hello guys 👋, I'm Thach375</h2>
+<h2 align="center">Hi guys 👋, I'm Thach375</h2>
 <p align="center">
   <h3 align="center">A Data science and Artificial intelligence student from Vietnam 🇻🇳 </h3>
 </p>
